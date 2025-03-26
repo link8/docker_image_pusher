@@ -1,5 +1,5 @@
 --platform=linux/arm/v8 xhofe/alist:latest
---platform=linux/arm/v8 xhofe/alist:Pre-release
+--platform=linux/arm/v8 xhofe/alist:beta
 --platform=linux/arm/v8 hanxi/xiaomusic:latest
 #--platform=linux/arm/v8 zerotier/zerotier:latest
 #--platform=linux/arm/v8 tailscale/tailscale:latest
